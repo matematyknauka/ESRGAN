@@ -1,0 +1,25 @@
+Zmiany w kodzie źródłowym i autor:
+=================================
+https://github.com/matematyknauka
+
+Oryginalny kod:
+---------------
+Kod pochodzi z repozytorium ESRGAN dostępnego pod adresem:
+https://github.com/xinntao/ESRGAN/blob/master/test.py
+
+Opis zmian:
+-----------
+- Zmieniono sposób konwersji obrazu na tensor. Zamiast bezpośredniej konwersji w skrypcie test.py, wykorzystano metodę z dodatkowego pliku tensor.py.
+
+Autorzy:
+--------
+- Oryginalny autor: xinntao (https://github.com/xinntao)
+- Zmieniony przez: [Kamil Pietrucha] [matematyknauka@gmail.com]
+
+Licencja:
+---------
+Kod jest licencjonowany na podstawie licencji Apache 2.0. Szczegóły znajdują się w pliku LICENSE.
+
+Kontakt:
+--------
+W przypadku pytań dotyczących kodu prosimy o kontakt z autorem oryginalnego kodu za pośrednictwem repozytorium GitHub lub z osobą, która dokonała zmian.
