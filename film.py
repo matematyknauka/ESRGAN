@@ -49,8 +49,8 @@ def enhance_video(input_file, output_file, model_path):
     video_hd.write_videofile(output_file, codec='libx264')
 
 # Ścieżki do plików
-input_file = "LR/Kamil_sd.mp4"  # Ścieżka do sd
-output_file = "results/Kamil_hd.mp4"  # Ścieżka do hd
+input_file = "LR/film/Kamil_sd.mp4"  # Ścieżka do sd
+output_file = "results/film/Kamil_hd.mp4"  # Ścieżka do hd
 model_path = "models/RRDB_ESRGAN_x4.pth"  # Ścieżka do modelu ESRGAN
 
 # Uruchom przetwarzanie wideo

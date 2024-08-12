@@ -10,6 +10,9 @@ https://github.com/xinntao/ESRGAN/blob/master/test.py
 Opis zmian:
 -----------
 - Zmieniono sposób konwersji obrazu na tensor. Zamiast bezpośredniej konwersji w skrypcie test.py, wykorzystano metodę z dodatkowego pliku tensor.py.
+- Zmieniono ścieżki w skrypcie test.py.
+- Zmieniono nazwę skryptu test.py na img.py
+- Dodano plik film.py
 
 Autorzy:
 --------
