@@ -1,4 +1,4 @@
-#FILMY Skopiuj lijniki 1, 2, 3,...,24 do Google Colab
+#FILMY Skopiuj lijniki 1, 2, 3,...,24 do Google Colab. W tym celu otwórz ten plik w odpowiednim formacie np. https://github.com/matematyknauka/ESRGAN/blob/main/README.md?plain=1
 #Konfiguracja
 from google.colab import drive #Podłączanie Dysku
 drive.mount('/content/drive') #Google
