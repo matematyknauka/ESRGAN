@@ -11,13 +11,4 @@ def laczenie(katalog_foto, katalog_film, fps):
         video.write(img)
 # Deallocating memories taken for window creation 
     cv2.destroyAllWindows()  
-    video.release()  # releasing the video generated 
-  
-  
-
-        
-        
-        
-        
-
-laczenie("/content/drive/MyDrive/Colab Notebooks/ESRGAN/LR/img", "/content/drive/MyDrive/Colab Notebooks/ESRGAN/results/film", 30) #Poprawić na results!!!
+    video.release()  # releasing the video generated
