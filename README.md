@@ -1,3 +1,4 @@
+Uruchom to klikając Code na Github.
 Pierwsza komórka (Jak będzie problem to podziel ją na osobne komórki).
 
 from google.colab import drive
