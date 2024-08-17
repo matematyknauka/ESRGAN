@@ -1,4 +1,4 @@
-Pierwsza komórka
+Pierwsza komórka (Jak będzie problem to podziel ją na osobne komórki).
 
 from google.colab import drive
 drive.mount('/content/drive')
