@@ -11,6 +11,7 @@ Opis zmian:
 -----------
 - Usunięto test.py.
 - Dodano film_na_klatki.py img_modul.py laczenie.py klatki_na_sekunde.py, tensor.py, film.py
+- W README.md jest dodany kod (dla Google Colab)
 
 Autorzy:
 --------
